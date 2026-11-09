@@ -1,2 +1,3 @@
 # Projeto-tony
-Tema: sla
+Tema: Plano de gastos.
+INTEGRANTES: Gabriela; Mariany; Beatriz; Ana Maria; Hugo.
