@@ -1,3 +1,3 @@
 # Projeto-tony
 Tema: Plano de gastos.
-INTEGRANTES: Gabriela; Mariani.
+INTEGRANTES: Gabriela; Mariani Xisperes.
