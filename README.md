@@ -1,3 +1,3 @@
 # Projeto-tony
 Tema: Plano de gastos.
-INTEGRANTES: Gabriela; Mariany; Beatriz; Ana Maria; Hugo.
+INTEGRANTES: Gabriela; Mariani Xisperes; Hugo Jesus; Beatriz Mochi; Ana Maria.
